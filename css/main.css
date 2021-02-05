@@ -4,7 +4,7 @@
 }
 
 .logocontainer {
-  width: 800px;
+  width: 1000px;
   margin: 0 auto;
 }
 
@@ -13,7 +13,24 @@
 }
 
 .conteiner2 {
-  width: 800px;
+  width: 1000px;
   margin: 0 auto;
   font-size: 25px;
+}
+
+.spazio1 {
+  line-height: 0;
+}
+
+.colore1 {
+  color: grey;
+}
+
+.colore2 {
+  color: darkcyan;
+}
+
+.colore3 {
+  color: grey;
+  font-size: 15px;
 }
