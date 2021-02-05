@@ -1,10 +1,10 @@
 .conteiner1 {
   background-image: url("../img/pattern.png");
   background-color: cadetblue;
-  width: 50% auto;
-  background-position: center
 }
 
-.titolo1{
-  center
+section {
+  text-align: center;
+  background-color: grey;
+  width: 50%;
 }
