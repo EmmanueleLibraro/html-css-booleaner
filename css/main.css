@@ -3,8 +3,8 @@
   background-color: cadetblue;
 }
 
-section {
-  background-color: grey;
+.conteiner2 {
   width: 50%;
   margin: auto;
+  font-size: 25px;
 }
