@@ -46,4 +46,9 @@
 .tabella {
   border-collapse: collapse;
   width: 100%;
+  text-align: left;
+}
+
+.grey {
+  color: grey;
 }
