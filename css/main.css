@@ -42,3 +42,8 @@
 .yellow {
   background-color: yellow;
 }
+
+.tabella {
+  border-collapse: collapse;
+  width: 100%;
+}
