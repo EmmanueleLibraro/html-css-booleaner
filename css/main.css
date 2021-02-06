@@ -36,5 +36,9 @@
 }
 
 .imamgini {
-  background-image: center;
+  align-content: center;
+}
+
+.yellow {
+  background-color: yellow;
 }
