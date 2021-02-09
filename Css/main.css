@@ -1,0 +1,68 @@
+.pattern{
+    background-image: url('../img/pattern.png');
+    background-color: lightskyblue;
+}
+
+.logo{
+    height: 100px;
+    width: 20%;
+}
+
+.testo{
+    font-size: 30px;
+}
+
+.container1{
+    
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.grey1{
+    color: grey;
+    font-size: 20px;
+}
+
+.grey2{
+    color: grey;
+    font-size: 12px;
+    
+}
+
+.lightblu{
+    color: rgb(66, 127, 206);
+    font-size: 20px;
+}
+
+
+
+.small{
+    line-height: 0.7;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    text-align: center;
+}
+
+.azzurro{
+    background-color: rgb(66, 127, 206);
+}
+
+.piedi{
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.grey3{
+    color: gray;
+}
